@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\deswkop\Visual Studio 2019\Projects\OpenGL\OpenGL_Start\OpenGL_Start\Source\main.cpp(16,9): warning C4101: 'array': yerel değişken başvurusu kaldırıldı
+  OpenGL_Start.vcxproj -> C:\Users\deswkop\Visual Studio 2019\Projects\OpenGL\OpenGL_Start\Debug\OpenGL_Start.exe
